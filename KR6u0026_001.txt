@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:38.573060
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 如來成道經
 #+PROPERTY: CBETA_ID T85n2890
 #+PROPERTY: ID KR6u0026
